@@ -10,7 +10,7 @@ def create_connection():
             user='root',
             password='',
             database='db_notes',  
-            port=3307  #SESUAIN PORTNYA
+            port=3308  # SESUAIKAN PORTNYA
         )
         return connection
     except Error as e:
@@ -170,6 +170,17 @@ def add_note(user_id, note_title, note_text, key):
 
 # Aplikasi utama
 def app():
+    # Menampilkan informasi tentang pembuat aplikasi
+    st.sidebar.title("Projek UAS Praktikum Kriptografi 2024")
+    st.sidebar.info(
+        """
+        Dibuat oleh **Kelompok - 9**:
+        - Reymontha Tarigan - 220021
+        - Muhammad Yusuf Adhi Surya - 220027
+        - Devalco Aghazzan Muslion - 220079
+        """
+    )
+
     if "user" not in st.session_state:
         st.session_state.user = None
 
