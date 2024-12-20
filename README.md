@@ -9,6 +9,7 @@ Aplikasi ini adalah aplikasi untuk menyimpan notes dalam bentuk terenkripsi. Alg
 ## Dependency:
 - Python: Versi 3.7 atau lebih baru
 - Streamlit: Framework untuk antarmuka web
+- MySQL : untuk database
 
 ## Pembuat:
 - 140810220027 Muhammad Yusuf Adhi S
