@@ -1,4 +1,4 @@
-# kelompok9-kripto
+# kelompok 9
 # Aplikasi Notes Personal
 
 ## Deskripsi
