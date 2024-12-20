@@ -1,5 +1,5 @@
 # Kelompok 9
-# Aplikasi Notes Personal
+# Aplikasi Notes Personal (Secret Note)
 
 ## Deskripsi
 Aplikasi ini adalah aplikasi untuk menyimpan notes dalam bentuk terenkripsi. Algoritma Enkripsi yang digunakan adalah:
