@@ -12,6 +12,6 @@ Aplikasi ini adalah aplikasi untuk menyimpan notes dalam bentuk terenkripsi. Alg
 - MySQL : untuk database
 
 ## Pembuat:
-- 140810220027 Muhammad Yusuf Adhi S
 - 140810220021 Reymontha Tarigan
-- 140810220079 Devalco Aghazzan M
+- 140810220027 Muhammad Yusuf Adhi Surya
+- 140810220079 Devalco Aghazzan Muslion
